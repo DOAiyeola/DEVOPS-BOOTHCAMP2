@@ -25,3 +25,27 @@
 10. Validate the subdomain websites’ SSL using OpenSSL utility.
 
 ![1](img/1.JPG)
+
+![2](img/1.1.JPG)
+
+![3](img/1.JPG)
+
+![4](img/2.JPG)
+
+![5](img/3.JPG)
+
+![6](img/4.JPG)
+
+![7](img/5.JPG)
+
+![8](img/6.JPG)
+
+![9](img/7.JPG)
+
+![10](img/8.JPG)
+
+![11](img/9.JPG)
+
+![12](img/10.JPG)
+
+### This the End of Project 2 ###
